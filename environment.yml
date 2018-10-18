@@ -12,7 +12,5 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - scipy.io
+  - scipy
   - pandas
-  - random
-  - math
